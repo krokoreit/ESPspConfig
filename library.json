@@ -1,0 +1,27 @@
+{
+  "name": "ESPspConfig",
+  "description": "A library for ESP32 to manage configuration data and files.",
+  "keywords": "cpp, library, configuration, .conf file, .ini file, krokoreit",
+  "version": "1.0.0",
+  "authors":
+  {
+    "name": "krokoreit",
+    "email": "krokoreit@gmail.com",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/krokoreit/ESPspConfig.git"
+  },
+  "dependencies":
+  [
+    {
+      "name": "spConfig",
+      "version": "https://github.com/krokoreit/spConfig.git#v2.1.4"
+    }
+  ],
+  "exclude": [".github", ".git"],
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
