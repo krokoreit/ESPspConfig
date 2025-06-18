@@ -18,7 +18,7 @@
   [
     {
       "name": "spConfig",
-      "version": "https://github.com/krokoreit/spConfig.git#v2.1.4"
+      "version": "https://github.com/krokoreit/spConfig.git"
     }
   ],
   "exclude": [".github", ".git"],
